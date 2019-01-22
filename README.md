@@ -130,3 +130,5 @@ test
         return cell
     }
 }
+
+https://stackoverflow.com/questions/3694411/how-to-auto-scroll-uiscrollview-using-timer
