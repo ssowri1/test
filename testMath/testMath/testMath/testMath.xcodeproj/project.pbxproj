@@ -8,16 +8,18 @@
 
 /* Begin PBXBuildFile section */
 		CE0CF81C223A25140031A84F /* RecursiveFunction.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE0CF81B223A25140031A84F /* RecursiveFunction.swift */; };
+		CE34A6F9223BD72B009BE04E /* 2.NonConsecutiveLetters.swift in Sources */ = {isa = PBXBuildFile; fileRef = CE34A6F8223BD72B009BE04E /* 2.NonConsecutiveLetters.swift */; };
 		CEDAFB862232370300A3A0D9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDAFB852232370300A3A0D9 /* AppDelegate.swift */; };
 		CEDAFB882232370300A3A0D9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDAFB872232370300A3A0D9 /* ViewController.swift */; };
 		CEDAFB8B2232370300A3A0D9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDAFB892232370300A3A0D9 /* Main.storyboard */; };
 		CEDAFB8D2232370500A3A0D9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEDAFB8C2232370500A3A0D9 /* Assets.xcassets */; };
 		CEDAFB902232370500A3A0D9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEDAFB8E2232370500A3A0D9 /* LaunchScreen.storyboard */; };
-		CEDAFB982232373B00A3A0D9 /* CompanyEmployer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDAFB972232373B00A3A0D9 /* CompanyEmployer.swift */; };
+		CEDAFB982232373B00A3A0D9 /* 1.CompanyEmployer.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEDAFB972232373B00A3A0D9 /* 1.CompanyEmployer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		CE0CF81B223A25140031A84F /* RecursiveFunction.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecursiveFunction.swift; sourceTree = "<group>"; };
+		CE34A6F8223BD72B009BE04E /* 2.NonConsecutiveLetters.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 2.NonConsecutiveLetters.swift; sourceTree = "<group>"; };
 		CEDAFB822232370300A3A0D9 /* testMath.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testMath.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEDAFB852232370300A3A0D9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEDAFB872232370300A3A0D9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -25,7 +27,7 @@
 		CEDAFB8C2232370500A3A0D9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEDAFB8F2232370500A3A0D9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEDAFB912232370500A3A0D9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CEDAFB972232373B00A3A0D9 /* CompanyEmployer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanyEmployer.swift; sourceTree = "<group>"; };
+		CEDAFB972232373B00A3A0D9 /* 1.CompanyEmployer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1.CompanyEmployer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +62,8 @@
 			children = (
 				CEDAFB852232370300A3A0D9 /* AppDelegate.swift */,
 				CEDAFB872232370300A3A0D9 /* ViewController.swift */,
-				CEDAFB972232373B00A3A0D9 /* CompanyEmployer.swift */,
+				CEDAFB972232373B00A3A0D9 /* 1.CompanyEmployer.swift */,
+				CE34A6F8223BD72B009BE04E /* 2.NonConsecutiveLetters.swift */,
 				CE0CF81B223A25140031A84F /* RecursiveFunction.swift */,
 				CEDAFB892232370300A3A0D9 /* Main.storyboard */,
 				CEDAFB8C2232370500A3A0D9 /* Assets.xcassets */,
@@ -143,7 +146,8 @@
 			files = (
 				CE0CF81C223A25140031A84F /* RecursiveFunction.swift in Sources */,
 				CEDAFB882232370300A3A0D9 /* ViewController.swift in Sources */,
-				CEDAFB982232373B00A3A0D9 /* CompanyEmployer.swift in Sources */,
+				CE34A6F9223BD72B009BE04E /* 2.NonConsecutiveLetters.swift in Sources */,
+				CEDAFB982232373B00A3A0D9 /* 1.CompanyEmployer.swift in Sources */,
 				CEDAFB862232370300A3A0D9 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
