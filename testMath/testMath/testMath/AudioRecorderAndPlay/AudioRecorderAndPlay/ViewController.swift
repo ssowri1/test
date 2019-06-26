@@ -25,6 +25,7 @@ class ViewController: UIViewController, AVAudioRecorderDelegate, AVAudioPlayerDe
         super.viewDidLoad()
         check_record_permission()
     }
+    /// Drag view action
     @IBAction func DragView(_ sender: UIPanGestureRecognizer) {
         let translation = sender.translation(in: self.view)
         sender.view!.center = CGPoint(x: sender.view!.center.x + translation.x, y: sender.view!.center.y + translation.y)
